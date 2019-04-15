@@ -1,0 +1,92 @@
+2019-04-15 00:53:16.702 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.house.houseweb.controller.HelloController required a bean of type 'com.house.housebiz.service.UserService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.house.housebiz.service.UserService' in your configuration.
+
+2019-04-15 00:54:45.336 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.house.houseweb.controller.HelloController required a bean of type 'com.house.housebiz.service.UserService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.house.housebiz.service.UserService' in your configuration.
+
+2019-04-15 00:58:18.265 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.house.houseweb.controller.HelloController required a bean of type 'com.house.housebiz.service.UserService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.house.housebiz.service.UserService' in your configuration.
+
+2019-04-15 01:06:39.503 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.house.houseweb.controller.HelloController required a bean of type 'com.house.housebiz.service.UserService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.house.housebiz.service.UserService' in your configuration.
+
+2019-04-15 01:18:17.902 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userMapper in com.house.houseweb.service.impl.UserServiceImpl required a bean of type 'com.house.housebiz.mapper.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.house.housebiz.mapper.UserMapper' in your configuration.
+
+2019-04-15 01:26:00.899 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userMapper in com.house.houseweb.service.impl.UserServiceImpl required a bean of type 'com.house.housebiz.mapper.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.house.housebiz.mapper.UserMapper' in your configuration.
+
+2019-04-15 20:48:03.322 [qtp809860628-28] ERROR [com.alibaba.druid.filter.stat.StatFilter:470] - slow sql 9 millis. select id,name,phone,email,aboutme,passwd from user[]
+2019-04-15 20:49:06.867 [qtp809860628-26] ERROR [com.alibaba.druid.filter.stat.StatFilter:470] - slow sql 2 millis. select id,name,phone,email,aboutme,passwd from user[]

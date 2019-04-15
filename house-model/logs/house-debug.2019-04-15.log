@@ -1,0 +1,6 @@
+2019-04-15 20:48:03.235 [qtp809860628-28] DEBUG [com.house.housebiz.mapper.UserMapper.selectUsers:181] - ==>  Preparing: select id,name,phone,email,aboutme,passwd from user 
+2019-04-15 20:48:03.310 [qtp809860628-28] DEBUG [com.house.housebiz.mapper.UserMapper.selectUsers:181] - ==> Parameters: 
+2019-04-15 20:48:03.340 [qtp809860628-28] DEBUG [com.house.housebiz.mapper.UserMapper.selectUsers:181] - <==      Total: 11
+2019-04-15 20:49:06.863 [qtp809860628-26] DEBUG [com.house.housebiz.mapper.UserMapper.selectUsers:181] - ==>  Preparing: select id,name,phone,email,aboutme,passwd from user 
+2019-04-15 20:49:06.864 [qtp809860628-26] DEBUG [com.house.housebiz.mapper.UserMapper.selectUsers:181] - ==> Parameters: 
+2019-04-15 20:49:06.871 [qtp809860628-26] DEBUG [com.house.housebiz.mapper.UserMapper.selectUsers:181] - <==      Total: 11
